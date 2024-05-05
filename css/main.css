@@ -64,7 +64,7 @@
     width: 100%;
 }
 #footer #footer-icon {
-    color: #66afef;
+    color: #f194f4;
     display: inline-block;
     font-size: 18px;
     margin: 0 10px;
@@ -141,7 +141,7 @@
 #home-card #card-div .icon-links a:hover,
 #home-card #card-div .friend-links a:hover,
 #home-posts .page-current .page-num:hover {
-    background: #66afef;
+    background: #f194f4;
     color: #fff;
 }
 #home-card #card-div .icon-links,
@@ -308,7 +308,7 @@
     line-height: 1.7;
 }
 #home-posts .post-title {
-    color: #66afef;
+    color: #f194f4;
     text-align: center;
 }
 #home-posts .post:hover {
@@ -367,7 +367,7 @@
     margin-right: calc(100% - 100vw);
 }
 #menu {
-    background: #92cafa;
+    background: #fbaad6;
     box-shadow: 0 -1px 10px 0 #9e9e9e4d;
     font-weight: bold;
     line-height: 50px;
@@ -662,7 +662,7 @@ body::-webkit-scrollbar-track {
     color: unset;
 }
 a {
-    color: #66afef;
+    color: #f194f4;
     text-decoration: none;
 }
 a:hover,
